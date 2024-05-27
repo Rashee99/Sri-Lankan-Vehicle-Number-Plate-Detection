@@ -1,4 +1,4 @@
-# Sri Lankan Vehicle Number Plate Detection
+# Sri Lankan Vehicle Number Plate Detection and Recognition
 
 Sri Lankan Vehicle Plate Detection Model! 🚗💡
 
