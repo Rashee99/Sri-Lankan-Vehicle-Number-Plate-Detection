@@ -9,3 +9,5 @@ Object Detection: Utilized a meticulously annotated dataset from RoboFlow to tra
 Number Plate Recognition: Implemented EasyOCR to recognize and extract characters from detected plates, ensuring efficient retrieval of relevant information.
 
 This project has been an incredible learning experience, delving deep into the world of deep learning and gaining invaluable insights along the way. Thrilled to share the progress and results! Stay tuned for more updates!
+
+Dataset: https://universe.roboflow.com/uni-yzlid/srilankan-number-plates
